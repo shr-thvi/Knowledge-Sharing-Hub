@@ -1,7 +1,8 @@
 Knowledge Sharing Hub 🧠💡
 Project Description
 Knowledge Sharing Hub is a revolutionary decentralized platform built on the Ethereum blockchain that transforms how knowledge is shared, validated, and rewarded. Our smart contract-powered ecosystem enables users to contribute valuable educational content, participate in community-driven quality assessment, and earn cryptocurrency rewards for their expertise.
-Unlike traditional centralized platforms, Knowledge Sharing Hub ensures complete transparency, censorship resistance, and fair compensation through blockchain technology. Every contribution is permanently stored, votes are publicly verifiable, and rewards are automatically distributed based on community appreciation.
+Unlike traditional centralized platforms, Knowledge Sharing Hub ensures complete transparency, censor![Uploading Screenshot (7).png…]()
+ship resistance, and fair compensation through blockchain technology. Every contribution is permanently stored, votes are publicly verifiable, and rewards are automatically distributed based on community appreciation.
 Project Vision
 We envision a future where knowledge flows freely across global boundaries, where expertise is fairly compensated, and where learning is democratized for everyone. Our mission is to create the world's largest decentralized repository of peer-reviewed knowledge, powered by economic incentives and community governance.
 "Democratizing Knowledge, Rewarding Wisdom, Building Tomorrow's Library"
